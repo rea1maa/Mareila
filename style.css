@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-item{
+    color: #B08EAD;
+}
+.cntr img{
+    width: 100%;
+}
+.sub{
+    text-align: center;
+    margin-top: 5%;
+}
+.sub h5{
+    text-align: center;
+    color: #B08EAD;
+}
+.sub button{
+    border-radius: 25px;
+    border: 1px solid #B08EAD;
+    color: #B08EAD;
+}
+.crd{
+    margin-top: 5%;
+}
+.trendy img{
+    margin-top: 10%;
+    width: 100%;
+}
+.bar{
+    margin-top: 5%;
+}
+.begin{
+    margin-top: 50px;
+}
+.begin h4{
+    margin-top: 10px;
+}
+.begin-ph img{
+    width: 100%;
+}
+.carrer-ph img{
+    width: 100%;
+}
+.carrer{
+    margin-top: 100px;
+}
+.carrer h4{
+    margin-top: 20px;
+}
+.prdct{
+    margin-top: 60px;
+}
+.prdct h4{
+    margin-top: 10px;
+}
+.prdct-ph img{
+    width: 100%;
+}
+.cushion img{
+    width: 100%;
+    margin-top: 5%;
+}
+.products{
+    margin-top: 5%;
+}
+.first img{
+    width: 100%;
+}
+.second img{
+    width: 100%;
+}
+.third img{
+    width: 100%;
+}
+.contact{
+    background: #CEB3CB;
+}
+.info{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.address{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+.info p{
+    font-family: Cormorant Garamond;
+}
+input{
+    background: #CEB3CB;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+.company{
+    margin-top: 20px;
+}
+.phone{
+    margin-top: 20px;
+}
+.message{
+    margin-top: 40px;
+    background: #CEB3CB;
+    border: 1px solid whitesmoke;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: 100%;
+}
+.bt button{
+    border: 3px solid #B08EAD;
+    color: white;
+    padding: 5px 35px 5px 35px;
+}
+.conec{
+    margin-top: 5%;
+    text-align: center;
+}
+.shop img{
+    width: 100%;
+    margin-top: 7%;
+}
